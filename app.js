@@ -1,6 +1,6 @@
 const counters = document.querySelectorAll('.counter');
 
-const counterSpeed = 200;
+const counterSpeed = 500;
 
 counters.forEach(counter => {
     const updateNumber = () => {
