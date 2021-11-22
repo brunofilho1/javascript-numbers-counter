@@ -23,9 +23,17 @@ body {
     gap: 10px;
 }
 
+header {
+    width: 80%;
+    text-align: center;
+
+    background: #152338;
+    padding: 20px;
+    border-radius: 10px;
+}
+
 header h1 {
-    font-size: 40px;
-    text-shadow: 3px 4px 1px lightskyblue;
+    font-size: 30px;
 }
 
 
